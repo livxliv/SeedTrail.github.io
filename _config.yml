@@ -8,7 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
-
+css: /assets/css/custom.css
 # Name of website
 title: My amazing website
 
