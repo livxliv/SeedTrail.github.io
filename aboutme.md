@@ -14,11 +14,6 @@ What else do you need?
 
 
 
-<div class="custom-frame">
-  <p>Your text goes here. Write anything you want inside this Figma-made frame.</p>
-</div>
-
-
 
 ### My story
 
