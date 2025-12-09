@@ -12,6 +12,12 @@ css: /assets/css/custom.css
 # Name of website
 title: My amazing website
 
+<div class="custom-frame">
+  Hello! This text will appear inside your Figma frame.
+</div>
+
+
+
 # Your name to show in the footer
 author: Some Person
 ###############################################
