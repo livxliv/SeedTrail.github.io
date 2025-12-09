@@ -1,0 +1,11 @@
+.custom-frame {
+  background-image: url("/assets/img/backgrountext.png");
+  background-size: contain;       /* or cover */
+  background-repeat: no-repeat;
+  padding: 40px;                  /* adjust padding so the text fits inside */
+  min-height: 300px;              /* depends on your design */
+  display: flex;                  
+  align-items: center;            /* center vertically */
+  justify-content: center;        /* center horizontally */
+  text-align: center;             /* optional */
+}
