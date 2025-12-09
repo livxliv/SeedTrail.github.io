@@ -1,5 +1,5 @@
 .custom-frame {
-  background-image: url("/assets/img/backgrountext.png");
+  background-image: url("/assets/img/backgroundtext.png");
   background-size: contain;       /* or cover */
   background-repeat: no-repeat;
   padding: 40px;                  /* adjust padding so the text fits inside */
