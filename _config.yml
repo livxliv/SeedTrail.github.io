@@ -8,13 +8,13 @@
 ############################
 # --- Required options --- #
 ############################
-css: /assets/css/custom.css
+#css: /assets/css/custom.css
 # Name of website
 title: My amazing website
 
-<div class="custom-frame">
-  Hello! This text will appear inside your Figma frame.
-</div>
+#<div class="custom-frame">
+  #Hello! This text will appear inside your Figma frame.
+#</div>
 
 
 
